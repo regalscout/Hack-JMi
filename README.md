@@ -1,6 +1,6 @@
-# 🌟 **We Travel**
+# 🌟 **We Travels**
 
-Welcome to We Traves, your go-to destination for exploring the vibrant city of Delhi, India. Our website offers comprehensive information on all the major tourist attractions, ensuring that your visit to Delhi is filled with unforgettable experiences. From historical landmarks to cultural hotspots, We Traves has got you covered.
+Welcome to We Travels, your go-to destination for exploring the vibrant city of Delhi, India. Our website offers comprehensive information on all the major tourist attractions, ensuring that your visit to Delhi is filled with unforgettable experiences. From historical landmarks to cultural hotspots, We Traves has got you covered.
 
 ## 📋 **Features**
 - **Detailed Information**: Find opening and closing times, ticket details, and booking links for all attractions.
