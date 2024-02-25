@@ -17,8 +17,7 @@ Welcome to We Traves, your go-to destination for exploring the vibrant city of D
 We are committed to expanding We Traves beyond Delhi to cover all states across India. Our goal is to promote tourism and showcase the rich history and cultural heritage of our country. Stay tuned for updates as we continue to enhance your travel experience with We Traves.
 
 ## 🌐 **Deployment**
-The We Traves website is currently deployed at [www.wetraves.com]([https://www.wetraves.com](https://regalscout.github.io/Hack-JMi/)). Start exploring Delhi today!
-
+You can also find the live version of the project [here](https://regalscout.github.io/Hack-JMi/).
 ## ℹ️ **About the Developer**
 This project was developed by a passionate team dedicated to creating valuable resources for travelers. We strive to provide accurate and insightful information to enhance your travel experiences.
 
