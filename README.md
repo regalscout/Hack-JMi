@@ -22,6 +22,6 @@ You can also find the live version of the project [here](https://regalscout.gith
 This project was developed by a passionate team dedicated to creating valuable resources for travelers. We strive to provide accurate and insightful information to enhance your travel experiences.
 
 ## ✉️ **Get in Touch**
-Have questions or feedback? Feel free to reach out to us at [contact@wetraves.com](mailto:contact@wetraves.com). We'd love to hear from you!
+Have questions or feedback? Feel free to reach out to us at [contact@wetraves.com](abidhussain.m47@gmail.com). We'd love to hear from you!
 
 Experience the beauty and diversity of Delhi with We Traves. Happy travels! 🌍✈️
